@@ -53,7 +53,8 @@ docker run -p XXXX:8501 churn-prediction-app
 
 
 
-<img width="769" alt="image" src="">
+<img width="769" alt="image" src="images/Churnapp1.png">
+<img width="769" alt="image" src="images/churnapp2.png">
 
 ## 🙏 Acknowledgements
 Docker Samples
